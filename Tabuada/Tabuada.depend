@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659365159 source:c:\users\carlos.ribas\documents\projetos\curso c\tabuada\main.c
+	<stdio.h>
+	<stdlib.h>
+
